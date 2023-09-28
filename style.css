@@ -164,7 +164,7 @@
 
 .main .text-wrapper-6 {
   position: absolute;
-  top: 1368px;
+  top: 1108px;
   left: 339px;
   font-family: "Lato", Helvetica;
   font-weight: 800;
@@ -177,7 +177,7 @@
 
 .main .text-wrapper-7 {
   position: absolute;
-  top: 1215px;
+  top: 955px;
   left: 339px;
   font-family: "Lato", Helvetica;
   font-weight: 800;
@@ -190,7 +190,7 @@
 
 .main .text-wrapper-8 {
   position: absolute;
-  top: 1064px;
+  top: 804px;
   left: 1494px;
   font-family: "Lato", Helvetica;
   font-weight: 800;
@@ -203,7 +203,7 @@
 
 .main .text-wrapper-9 {
   position: absolute;
-  top: 1064px;
+  top: 804px;
   left: 339px;
   font-family: "Lato", Helvetica;
   font-weight: 800;
@@ -216,7 +216,7 @@
 
 .main .text-wrapper-10 {
   position: absolute;
-  top: 909px;
+  top: 649px;
   left: 339px;
   font-family: "Lato", Helvetica;
   font-weight: 800;
@@ -231,7 +231,7 @@
   position: absolute;
   width: 979px;
   height: 432px;
-  top: 981px;
+  top: 721px;
   left: 2176px;
 }
 
@@ -375,10 +375,10 @@
   line-height: normal;
 }
 
-.main .ing-nieur-EFOL-IA {
+.main .ing-nieur-EPFL-IA {
   position: absolute;
   top: 4786px;
-  left: 990px;
+  left: 997px;
   font-family: "Lato", Helvetica;
   font-weight: 500;
   color: #ffffff;
@@ -864,9 +864,9 @@
 
 .main .liste-de-choses-a {
   position: absolute;
-  width: 107px;
-  height: 140px;
-  top: 1978px;
+  width: 94px;
+  height: 87px;
+  top: 2004px;
   left: 2401px;
   object-fit: cover;
 }
@@ -875,14 +875,14 @@
   position: absolute;
   width: 771px;
   height: 169px;
-  top: 1565px;
+  top: 1305px;
   left: 338px;
 }
 
 .main .text-wrapper-27 {
   position: absolute;
   width: 663px;
-  top: 1610px;
+  top: 1350px;
   left: 406px;
   font-family: "Lato", Helvetica;
   font-weight: 500;
